@@ -1,0 +1,5 @@
+{
+  "name": "Shehwar Broast",
+  "description": "A modern, professional restaurant website for Shehwar Broast in Jubilee Town, Lahore, featuring a delicious menu, gallery, and easy ordering.",
+  "requestFramePermissions": ["geolocation"]
+}
